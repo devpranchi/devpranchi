@@ -1,6 +1,5 @@
 # Hello!
-I'm Franz, 17, Male, living in the Philippines, and a tech intermediate. Beginner in web development, average in Discord bot development (mainly Node.js) and a student. (this GitHub account is in the Global Campus program)
-> Projects? [I'll add later, I'm lazy]
+I'm Franz, 17, Male, living in the Philippines, and a tech intermediate. Beginner in web development, average in Discord bot development (mainly Node.js) and a student. (this GitHub account is in the Global Campus 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=devpranchi)](https://github.com/devpranchi)
 
 ## Socials and Contact
